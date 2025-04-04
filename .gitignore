@@ -1,0 +1,26 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore IDE/editor-specific files
+/.vscode/
+/.idea/
+/*.iml
+
+# Ignore build directories
+/bin/
+/out/
+/target/
+
+# Ignore dependency folders
+/lib/
+/node_modules/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files (if any)
+.env
