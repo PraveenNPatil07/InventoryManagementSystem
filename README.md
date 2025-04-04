@@ -43,8 +43,5 @@ InventoryManagementSystem/
 ## 🤝 Contribution
 Feel free to contribute! Submit an issue or pull request if you find any bugs or want to add new features. 🚀
 
-## 📜 License
-This project is licensed under the **MIT License**. 
-
 ---
 🌟 _If you like this project, give it a star ⭐ on GitHub!_
